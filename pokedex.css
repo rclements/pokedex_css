@@ -1,0 +1,36 @@
+* { box-sizing: border-box; }
+.top{ 
+  background-color: green;
+  padding:0px 0px 20px 5px;
+} 
+.top h1{
+  padding-left: 40px;
+  padding-top: 10px;
+}
+.nav li{
+  display:inline-block;
+}
+.content{ 
+  background-color: blue;
+}
+.sidebar{
+  width:15%;
+  height:500px;
+  background-color: purple;
+  display:inline-block;
+}
+.sidebar h4{
+  text-align:center;
+}
+.main-content{
+  display:inline-block;
+  text-align:center;
+  width:84%;
+  height:500px;
+  background-color: yellow;
+}
+footer{ 
+  text-align:center;
+  background-color: red;
+} 
+
