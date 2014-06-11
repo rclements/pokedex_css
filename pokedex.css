@@ -1,7 +1,8 @@
 * { box-sizing: border-box; }
 .top{ 
-  background-color: green;
+  background-color: 232436;
   padding:0px 0px 20px 5px;
+  color:9EACC7;
 } 
 .top h1{
   padding-left: 40px;
@@ -11,28 +12,31 @@
   display:inline-block;
 }
 .content{ 
-  background-color: blue;
+  background-color: 9EACC7;
 }
 .sidebar{
-  vertical-align: top
-  width:20%;
+  vertical-align: top;
+  width:15%;
   height:500px;
-  background-color: purple;
+  background-color: 3C4564;
   display:inline-block;
 }
 .sidebar h4{
   text-align:center;
 }
 .main-content{
-  vertical-align: top
+  vertical-align: top;
   display:inline-block;
   text-align:center;
-  width:80%;
+  width:84%;
   height:500px;
-  background-color: yellow;
+  background-color: 9EACC7;
+  color: 232436;
 }
 footer{ 
+  padding:20px 20px 0px 20px;
+  height:30px;
   text-align:center;
-  background-color: red;
+  background-color: 651D31;
 } 
 
